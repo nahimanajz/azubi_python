@@ -1,4 +1,4 @@
-name = raw_input('What is your name?') #read input from user
+name = input('What is your name?') #read input from user
 print('Hello')
 print(name)
 # use double print to set new line
@@ -44,4 +44,4 @@ f_num = input("Enter number one:")
 s_num = input("Enter number two:")
 print(int(f_num) ** int(s_num)) # converted to int because every input is treated as a string
 
-
+print('azubi. AFRICA'.capitalize())

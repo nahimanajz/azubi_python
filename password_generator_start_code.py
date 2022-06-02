@@ -44,6 +44,6 @@ random.shuffle(final_password_list)
 #converting the final password Array to string
 full_password=""
 #traversing the list
-for name in final_password_list:
-    full_password += name
+for character in final_password_list:
+    full_password += character
 print(full_password)
